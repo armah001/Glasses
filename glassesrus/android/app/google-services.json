@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "769734510211",
+    "project_id": "glassesrus-84f24",
+    "storage_bucket": "glassesrus-84f24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769734510211:android:6576221f3e256ef644fdb6",
+        "android_client_info": {
+          "package_name": "com.example.glassesrus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769734510211-uekhmu2q7v7bf5e0dr8ee2dl2nnamcgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh4aLHy1aA6zAB7lAeuTIFN8mqRxyUjVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769734510211-uekhmu2q7v7bf5e0dr8ee2dl2nnamcgh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769734510211-8la2fo60clv72f89oo6rii3qjg8b1u50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.glassesrus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
